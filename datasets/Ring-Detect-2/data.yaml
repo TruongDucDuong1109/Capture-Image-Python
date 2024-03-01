@@ -1,0 +1,12 @@
+names:
+- Ring
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ring-detect-2samp
+  url: https://universe.roboflow.com/count-detection/ring-detect-2samp/dataset/2
+  version: 2
+  workspace: count-detection
+test: test/images
+train: train/images
+val: valid/images
